@@ -22,8 +22,8 @@ if sys.platform == 'win32':
 # Configuración
 REPO_PATH = os.path.dirname(os.path.abspath(__file__))
 README_FILE = os.path.join(REPO_PATH, "README.md")
-MIN_COMMITS = 3
-MAX_COMMITS = 10
+MIN_COMMITS = 4
+MAX_COMMITS = 13
 
 # Mensajes de commit variados
 COMMIT_MESSAGES = [
